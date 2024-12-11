@@ -49,6 +49,7 @@ We are constantly adding new resources to this repository. If you find a resourc
 - [OpenVAS](https://www.openvas.org/)
 - [Nessus](https://www.tenable.com/products/nessus)
 - [Acunetix](https://www.acunetix.com/)
+- [Hudson Rock - Free Cybercrime Intelligence Toolkit](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 
 ## Network Security:
 - [Zeek (formerly Bro)](https://www.zeek.org/)
